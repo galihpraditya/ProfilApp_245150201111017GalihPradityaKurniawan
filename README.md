@@ -53,7 +53,3 @@ Berdasarkan hasil praktikum, pendekatan Jetpack Compose menawarkan beberapa keun
 | Mode Portrait | Mode Landscape |
 | :---: | :---: |
 | <img width="429" height="953" alt="Screenshot 2026-09-10 231945" src="https://github.com/user-attachments/assets/c4349341-6b8c-4291-b428-1d2cea4d77dd" /> | <img width="1907" height="848" alt="Screenshot 2026 09-10 232005" src="https://github.com/user-attachments/assets/6147e0c4-07c4-4133-bbe0-003fd8a4b5d0" /> |
-
-**Galih Praditya Kurniawan**  
-Mahasiswa Teknik Informatika - Universitas Brawijaya  
-NIM: [Masukkan NIM Anda di sini]
